@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "pwa-chrome",
+            "type": "chrome",
             "request": "launch",
-            "name": "Open index.html",
-            "file": "c:\\Users\\BT_5E7_03\\New folder\\.vscode\\index.html"
+            "name": "Open animals.html",
+            "file": "c:\\Users\\turtl\\website\\.vscode\\animals.html"
         }
     ]
 }
