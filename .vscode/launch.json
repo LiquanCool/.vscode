@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open animals.html",
-            "file": "c:\\Users\\turtl\\website\\.vscode\\animals.html"
+            "name": "Open index.html",
+            "file": "c:\\Users\\turtl\\website\\.vscode\\index.html"
         }
     ]
 }
